@@ -4,25 +4,25 @@
 
   1. 中划线
 
-    * classname
+	    * classname
 
   2. 下划线：
 
-    * ref
-    * filename
-    * utils > function
-    * beans > const
-    * private var
+	    * ref
+	    * filename
+	    * utils > function
+	    * beans > const
+	    * private variable
 
-  3. 驼峰
+  3. 驼峰(camel, 小驼峰)
+		
+		* varable
+  4. 帕斯卡(pascal, 大驼峰)
 
-    1） 首字母大写
-      * 组件名称
-      * Class
-    2) 首字母小写
-      * var
+	      * 组件名称
+	      * Class
   
-  4. 全大写
+  5. 全大写
     * const (not object)
 
 ## 命名方式
